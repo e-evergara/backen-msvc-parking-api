@@ -1,0 +1,1 @@
+insert into REGISTRIES(id, date_arrival, displacement, license_plate, vehicle_type,amount) values(1,'2025-04-15T10:25:00','','123B', 'CAR',0)
